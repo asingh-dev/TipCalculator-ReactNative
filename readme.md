@@ -8,3 +8,4 @@
 * ` cd TipCalculator/ `
 * ` react-native run-ios `
   
+![App Sreenshot](https://raw.githubusercontent.com/amandeeepsingh/TipCalculator-ReactNative/master/AppScreenShot.png "App Sreenshot")
